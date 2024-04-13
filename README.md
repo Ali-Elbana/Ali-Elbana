@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Ali-Elbana](https://github.com/Ali-Elbana)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/ali-el-bana/](https://www.linkedin.com/in/ali-el-bana/)
+- 📝 I regularly write articles on [https://www.linkedin.com/in/ali-el-bana/](https://www.linkedin.com/in/ali-el-bana/recent-activity/articles/)
 
 - 💬 Ask me about **C programming, Modern C++, Embedded Software/Firmware and Embedded Linux.**
 
