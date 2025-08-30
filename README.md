@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/ali-el-bana/](https://www.linkedin.com/in/ali-el-bana/recent-activity/articles/)
 
-- 💬 Ask me about **C programming, Modern C++, Embedded Software/Firmware and Embedded Linux.**
+- 💬 Ask me about *Software Engineering (specially using C++ programming).**
 
 - 📫 How to reach me **alitheboss922@gmail.com**
 
